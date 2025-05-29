@@ -64,6 +64,11 @@ You can override it in `video-config.js` like this:
 - All time values are in **seconds**.
 - Unconfigured videos play fully without skipping.
 
+## How To Use In OBS:
+
+- Add `videos.html` as a browser source.
+- In OBS browser scene settings set URL as `file://C:/path/to/videos.html`
+
 ## License
 
 MIT
