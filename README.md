@@ -68,6 +68,8 @@ You can override it in `video-config.js` like this:
 
 - Add `videos.html` as a browser source.
 - In OBS browser scene settings set URL as `file://C:/path/to/videos.html`
+- Check `Shutdown source when not visible`.
+- check `Refresh browser when scene becomes active`
 
 ## License
 
